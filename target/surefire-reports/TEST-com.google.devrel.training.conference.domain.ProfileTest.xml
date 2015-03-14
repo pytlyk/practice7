@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="com.google.devrel.training.conference.domain.ProfileTest" time="0.001" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.google.devrel.training.conference.domain.ProfileTest" time="0" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_40\bin"/>
@@ -27,7 +27,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 8.1"/>
-    <property name="classworlds.conf" value="D:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5224604780547372702.tmp"/>
+    <property name="classworlds.conf" value="D:\workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4825911705240634593.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
     <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_40\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_40/bin/server;C:/Program Files/Java/jre1.8.0_40/bin;C:/Program Files/Java/jre1.8.0_40/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Java\JDK\bin;D:\Java\maven\maven\bin;D:\Java\Eclipce\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -63,5 +63,5 @@
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase classname="com.google.devrel.training.conference.domain.ProfileTest" name="testGetters" time="0"/>
-  <testcase classname="com.google.devrel.training.conference.domain.ProfileTest" name="testUpdate" time="0.001"/>
+  <testcase classname="com.google.devrel.training.conference.domain.ProfileTest" name="testUpdate" time="0"/>
 </testsuite>
